@@ -18,7 +18,7 @@ A beginner-friendly Python command-line calculator.
 python calculator.py
 ```
 
-# About
+## About
 A simple project to practice:
 • Loops & conditionals
 • Input validation
