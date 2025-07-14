@@ -21,8 +21,11 @@ python calculator.py
 # About
 A simple project to practice:
 • Loops & conditionals
+
 • Input validation
+
 • Basic arithmetic operations
+
 • User input handling
 
 Enjoy calculating! ✏️🧮
