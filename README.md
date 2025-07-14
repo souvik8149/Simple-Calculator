@@ -19,10 +19,11 @@ python calculator.py
 ```
 
 ## About
+
 A simple project to practice:
-• Loops & conditionals
-• Input validation
-• Basic arithmetic operations
-• User input handling
+- Loops & conditionals
+- Input validation
+- Arithmetic operations
+- User-friendly output
 
 Enjoy calculating! ✏️🧮
